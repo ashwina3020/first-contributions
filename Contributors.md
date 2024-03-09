@@ -16,6 +16,7 @@ JiyinShao
 - [MPC] (https://github.com/Myat-00)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
+- Ashwina Ashish (https://github.com/ashwina3020) my 1st time contributing <3
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
